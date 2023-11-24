@@ -8,11 +8,12 @@
 - 😄 Pronouns: He/Him
 - 💻 My Skills:
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,postman,sequelize,py,sqlite,pr,ps,ai)](https://skillicons.dev)
-- 🎧 Now Listening To:
+- 🎵 Fun Fact: my coding skills increase by an astounding 100% when listening to music
+- 🎧 Now Jammin' to:
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21iuvpbng2pvmdzi2qs7lwdbi&cover_image=true&theme=default&show_offline=false&background_color=181616&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21iuvpbng2pvmdzi2qs7lwdbi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21iuvpbng2pvmdzi2qs7lwdbi&redirect=true)
 
 
 
