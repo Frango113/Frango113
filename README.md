@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on: projects that use Javascript (React-Redux, Express, Node) or Python!  
 - 😄 Pronouns: He/Him
 - 💻 My Skills:
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,postgres,postman,sequelize,py,sqlite,pr,ps,ai)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,nodejs,express,postgres,postman,sequelize,py,sqlite,pr,ps,ai)](https://skillicons.dev)
 - 🎵 Fun Fact: my coding skills increase by an astounding 100% when listening to music
 - 🎧 Now Jammin' to:
 
