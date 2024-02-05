@@ -2,7 +2,8 @@
 
 
 
-- 🔭 I’m currently working on : My portfolio and a Visual novel projet!
+- 🔭 I’m currently working on : My portfolio and a Visual novel project!
+- 💼 My Linked-in profile!: https://www.linkedin.com/in/francisco-gonzalez-casarino-135b82237/
 - 🌱 I’m currently learning : Typescript && hopefully C# soon!
 - 👯 I’m looking to collaborate on: projects that use Javascript (React-Redux, Express, Node) or Python!  
 - 😄 Pronouns: He/Him
